@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwasemilore1
 - 👀 I’m interested in meeting developers and achieve more
-- 🌱 I’m currently learning Javasript
+- 🌱 I’m currently learning Javasript and React JS
 - 💞️ I’m looking to collaborate on FrontEnd projects 
 - 📫 How to reach me @ Oluwasemiloreadetayo@gmail.com
 
